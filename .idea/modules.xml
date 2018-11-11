@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Photogon.iml" filepath="$PROJECT_DIR$/.idea/Photogon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photogon/photogon.iml" filepath="$PROJECT_DIR$/photogon/photogon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photogon/photogon-core/photogoncore.iml" filepath="$PROJECT_DIR$/photogon/photogon-core/photogoncore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photogon/photogon-gui/photogongui.iml" filepath="$PROJECT_DIR$/photogon/photogon-gui/photogongui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photogon/photogon-node/photogonnode.iml" filepath="$PROJECT_DIR$/photogon/photogon-node/photogonnode.iml" />
+    </modules>
+  </component>
+</project>
